@@ -10,3 +10,6 @@
 
 # 실행 화면
 ![image](https://user-images.githubusercontent.com/90186249/205539743-43e18104-c144-40f6-a4ba-4a90cbc40347.png)
+
+# 웹페이지 주소
+- http://bs-soft.co.kr/technology
